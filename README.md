@@ -1,10 +1,10 @@
-SQL Data Analysis: Global Layoffs Data
+# SQL Data Analysis: Global Layoffs Data
 
-Introduction
+# Introduction
 
 This project involves a comprehensive data cleaning and exploratory data analysis (EDA) using SQL on a dataset related to company layoffs. The objective is to extract meaningful insights from the layoff data, identify trends, and understand the impact of various factors such as industry, country, funding stage, and time on the number of layoffs. This repository contains the SQL script used for data manipulation and analysis, designed for a MySQL environment.
 
-Objective
+# Objective
 The primary objectives of this SQL project are:
 
 To perform robust data cleaning and standardization to ensure data quality and consistency.
@@ -17,7 +17,7 @@ To analyze the distribution of layoffs across different time periods and funding
 
 To derive actionable insights that highlight key characteristics and impacts within the global layoff landscape.
 
-Implementation Steps
+# Implementation Steps
 The SQL FIRST PROJECT CC.sql script outlines the entire workflow, which includes the following key steps:
 
 Data Loading and Table Creation:
@@ -56,7 +56,7 @@ Exploratory Data Analysis (EDA) Queries:
 
 Executed a series of analytical queries to extract insights, including total layoffs by country, industry, company, average percentage laid off by industry, layoffs per funding stage, and temporal analysis.
 
-Results
+# Results
 The SQL analysis yielded several key quantitative insights into the layoff data:
 
 Top Countries by Total Layoffs (Top 10):
@@ -133,8 +133,7 @@ Provided a breakdown of total layoffs grouped by both industry and stage.
 
 These results offer a clear quantitative picture of the layoff trends and patterns within the analyzed dataset, providing valuable insights for stakeholders.
 
-Contact Information
-For any questions, discussions, or potential collaborations on this project, please feel free to connect:
+# Contact Information
 
 Name: Pranjal Joshi
 
